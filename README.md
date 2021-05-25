@@ -1,2 +1,2 @@
-# CS220
+# CS220A: Computer Organization
 Design Assignments
